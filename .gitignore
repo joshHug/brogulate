@@ -1,0 +1,4 @@
+.workspace
+.output
+*.pyc
+*.class
